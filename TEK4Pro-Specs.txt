@@ -1,0 +1,16 @@
+TEK4Pro Specifications
+
+NXP iMX6ULL, single Cortex-A7 core SoC @ 900 Mhz
+512 MB 400 Mhz DDR3 Memory
+8 GB eMMc storage
+Embedded Linux Operating System w/ Javascript and DHCP server support
+2-10/100 Ethernet Ports w/ Power over Ethernet (PoE)
+1-20 pin JTAG connector
+1-OTG USB 2.0 port
+5-RS232 ports
+1-RS232/RS485 dual mode port
+2-Multimode I/O ports w/ 24v drive or open drain sink or input modes 
+3-0v-24v general use inputs
+2-Programmable dry contact closures
+1-24 bit Audio Codec with line-in and line-out
+Operating temperature: 0 – 50 degrees C ambient
